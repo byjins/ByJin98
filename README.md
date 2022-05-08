@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=YuByeongJin&fontAlign=70&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=YooByeongJin&fontAlign=70&height=200)
 
 ⭐Main Tech<br/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
