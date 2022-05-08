@@ -7,7 +7,7 @@
 <br/>
 😊Study<br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=appveyor=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/react.js-#61DAFB?style=for-the-badge&logo=appveyor=react.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=appveyor=react.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=appveyor=vue.js&logoColor=white"/>
 
 🤲Sub Tech<br/>
