@@ -15,7 +15,7 @@
 
 # 💻Connection
 
-<a href = "https://velog.io/@0ybj1227"> <img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
+<a href = "https://velog.io/@ybj1227"> <img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
 <a href = "ppwm111@naver.com"> <img alt="email" src ="https://img.shields.io/badge/email-03C75A?&style=for-the-badge&logo=naver&logoColor=white"/></a>
 
 
