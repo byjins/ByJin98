@@ -13,5 +13,19 @@
 🤲Sub Tech<br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/>
 
+# 💻Connection
 
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=Byjin98&&theme=dark&show_icons=true)
+<a href = "https://velog.io/@0ybj1227"> <img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
+<a href = "ppwm111@naver.com"> <img alt="email" src ="https://img.shields.io/badge/email-03C75A?&style=for-the-badge&logo=naver&logoColor=white"/></a>
+<a href = "https://github.com/ByJin98"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
+
+
+## blog 
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ybj1227)
+
+
+## Git
+
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=ByJin98&theme=dracula&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJin98&theme=dracula)
