@@ -25,6 +25,6 @@
 
 ## Git
 
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=ByJin98&theme=dracula&show_icons=true)
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=ByJin98s&theme=dracula&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJin98&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJin98s&theme=dracula)
