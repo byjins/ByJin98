@@ -11,9 +11,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 
-🤲Sub Tech<br/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/>
-
 # 💻Connection
 
 <a href = "https://velog.io/@ybj1227"> <img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
