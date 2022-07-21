@@ -1,17 +1,16 @@
-# ⭐My Skill
-<br/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<br/>
+# ⭐Tech
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 # ❓Study
-<br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+
 
 # 💻Connection
-
 <a href = "https://velog.io/@ybj1227"> <img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
 <a href = "ppwm111@naver.com"> <img alt="email" src ="https://img.shields.io/badge/email-03C75A?&style=for-the-badge&logo=naver&logoColor=white"/></a>
 
