@@ -1,29 +1,22 @@
-
-<div style="display:flex; flex-wrap: nowrap; ">
-    <div style="display:flex; flex-direction:column; justify-content: space-between;margin-right:17px">
+<div style="display:flex; flex-direction:column; justify-content: space-between; width:100%; margin-right:17px">
         <h3 align="center">
             🌞 Byeong Jin Yoo🌞
         </h3>
         <div style="width:100%">
             프론트엔드 개발자가 되기위해 매일 꾸준히 1일 1커밋을 하며 공부중입니다!!</br>
         </div>
-    <br/>
-<div class="velog-naver">
+        <br/> 
+
+   <div class="velog-naver">
 
 velog : [![velog badge](https://img.shields.io/badge/velog-20C997.svg?&style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ybj1227)
-    </br>
+        </br>
 
 email : [![email badge](https://img.shields.io/badge/email-03C75A?&style=flat-square&logo=naver&logoColor=white)](mailto:ppwm111@naver.com)
+         </div>
     </div>
 
-</div>
 
-<div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJin98&layout=compact)
-</div>
-
-</div>
 
 <h2 align="center">📚Tech Stack</h2>
 
@@ -47,12 +40,10 @@ email : [![email badge](https://img.shields.io/badge/email-03C75A?&style=flat-sq
 </div>
 
 
-
-<h2 align="center"> 🐱Git</h2>
-
 <div align="center">
 
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=ByJin98&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJin98&layout=compact)
+
 
 </div>
 
