@@ -13,6 +13,9 @@ velog : [![velog badge](https://img.shields.io/badge/velog-20C997.svg?&style=fla
         </br>
 
 email : [![email badge](https://img.shields.io/badge/email-03C75A?&style=flat-square&logo=naver&logoColor=white)](mailto:ppwm111@naver.com)
+        </br>
+        
+notion : [![notion badge](https://img.shields.io/badge/notion-000000?&style=flat-square&logo=notion&logoColor=white)](#)(준비중)
          </div>
     </div>
 
