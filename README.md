@@ -1,6 +1,6 @@
 <div style="display:flex; flex-direction:column; justify-content: space-between; width:100%; margin-right:17px">
         <h3 align="center">
-            🌞 Byeong Jin Yoo 🌞
+            🌞 Byeong Jin Yu 🌞
         </h3>
         <div style="width:100%">
             프론트엔드 개발자가 되기위해 매일 꾸준히 공부중입니다!!</br>
