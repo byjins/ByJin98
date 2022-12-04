@@ -12,7 +12,7 @@
 velog : [![velog badge](https://img.shields.io/badge/velog-20C997.svg?&style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ybj1227)
         </br>
 
-email : [![email badge](https://img.shields.io/badge/email-03C75A?&style=flat-square&logo=naver&logoColor=white)](mailto:ppwm111@naver.com)
+email : [![email badge](https://img.shields.io/badge/Gmail-EA4335?&style=flat-square&logo=naver&logoColor=white)](mailto:byjin98@gmail.com)
         </br>
         
 notion : [![notion badge](https://img.shields.io/badge/notion-000000?&style=flat-square&logo=notion&logoColor=white)](#)(준비중)
