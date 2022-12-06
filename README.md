@@ -1,25 +1,13 @@
-<div style="display:flex; flex-direction:column; justify-content: space-between; width:100%; margin-right:17px">
-        <h3 align="center">
-            🌞 Byeong Jin Yu 🌞
-        </h3>
-        <div style="width:100%">
-            프론트엔드 개발자가 되기위해 매일 꾸준히 공부중입니다!!</br>
-        </div>
-        <br/> 
-
-   <div class="velog-naver">
-
-velog : [![velog badge](https://img.shields.io/badge/velog-20C997.svg?&style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ybj1227)
-        </br>
-
-email : [![email badge](https://img.shields.io/badge/Gmail-EA4335?&style=flat-square&logo=naver&logoColor=white)](mailto:byjin98@gmail.com)
-        </br>
-        
-notion : [![notion badge](https://img.shields.io/badge/notion-000000?&style=flat-square&logo=notion&logoColor=white)](#)(준비중)
-         </div>
-    </div>
+[![velog badge](https://img.shields.io/badge/velog-20C997.svg?&style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ybj1227)
+[![email badge](https://img.shields.io/badge/Gmail-EA4335?&style=flat-square&logo=naver&logoColor=white)](mailto:byjin98@gmail.com)
 
 
+## 안녕하세요! 프론트엔드 개발자 Jinny입니다!
+- 알아보기 쉬운 코드 작성을 위해 변수명과 로직에 대한 고민을 합니다. 🤔
+- 함께 일하기 좋은 개발자가 되고 싶습니다.🥴
+
+<br/>
+<br/>
 
 <h2 align="center">📚Tech Stack</h2>
 
