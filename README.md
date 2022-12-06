@@ -2,7 +2,7 @@
 [![email badge](https://img.shields.io/badge/Gmail-EA4335?&style=flat-square&logo=naver&logoColor=white)](mailto:byjin98@gmail.com)
 
 
-## 안녕하세요! 프론트엔드 개발자 Jinny입니다!
+## 🐯 안녕하세요! 프론트엔드 개발자 Jinny입니다!
 - 알아보기 쉬운 코드 작성을 위해 변수명과 로직에 대한 고민을 합니다. 🤔
 - 함께 일하기 좋은 개발자가 되고 싶습니다.🥴
 
